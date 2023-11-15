@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome to What-The-Hack",
+      "description": "Revolutionising how we interact with one another individually, as collectives as well as with our own personal journey. This app will facilitate the interaction between peers and colleagues as well as organizations and partners. Thank you",
+      "category": "The Winning Team",
+      "imageUrl": "http://res.cloudinary.com/dtqme1nzx/image/upload/v1694380467/r9zxkzq2ycdtrjnmjguj.jpg",
+      "date": "10/09/2023",
+      "id": 1
+    },
+    {
+      "title": "Miss Me",
+      "description": "You made my vacation extra special by being my companion. We laughed until we cried, had amazing conversations and created some really beautiful memories together. The time we got to spend together will be something I’ll always remember – thank you for being there with me.",
+      "category": "Group2",
+      "imageUrl": "http://res.cloudinary.com/dtqme1nzx/image/upload/v1694523621/hnvoevkp4vmgdy696g4h.jpg",
+      "date": "12/09/2023",
+      "id": 4
+    },
+    {
+      "title": "Johannesburg Art Gallery",
+      "description": "The Federated Union of Black Artists (FUBA) was established in 1978 to support black artists, providing training and advancing careers at a time when apartheid dispensation allowed for few other alternatives to black artists.\n\nFUBA’s legacy and influence on the development of late 20th century South African art, including the Resistance Art movement, is an important part of our cultural history – and JAG’s FUBA archive represents a significant part of this legacy.\n\nThe Friends of JAG, Breinstorm Brand Architects & MAKDCT took on the project of protecting the rich legacy of FUBA by digitising this archive with support from the United States Ambassadors Grant for Cultural Preservation. The Archive was collected by Elza Miles with the aid of a grant from the Embassy of the Royal Netherlands. ",
+      "category": "Group4",
+      "imageUrl": "http://res.cloudinary.com/dtqme1nzx/image/upload/v1694528093/ewqap8bjk1i1xgosvw6d.jpg",
+      "date": "12/09/2023",
+      "id": 5
+    },
+    {
+      "title": "MTN Bushfire x Ballantine's True Music: Kabza De Small",
+      "description": "Fresh from his True Music set in Soweto, Amapiano pioneer Kabza De Small is playing now on the Firefly Stage.",
+      "category": "Group6",
+      "imageUrl": "http://res.cloudinary.com/dtqme1nzx/image/upload/v1694681686/bykqa5bnzwwl9fatyxgj.jpg",
+      "date": "14/09/2023",
+      "id": 7
+    },
+    {
+      "title": "African Cuisine",
+      "description": "A mix of vegetables that include peppers, carrots, onions, and tomatoes, this sauce is excellent for anyone who enjoys extra spicy dishes. Usually, it is served at braais as an accompaniment to side dishes such as pap. It resembles the polenta, only that it is smoother and goes perfectly with boerewors. Read more: https://briefly.co.za/33007-popular-traditional-black-south-african-recipes-south-african-food.html",
+      "category": "Group3",
+      "imageUrl": "http://res.cloudinary.com/dtqme1nzx/image/upload/v1694684858/ikwjnkh0oowdg9k2udus.png",
+      "date": "14/09/2023",
+      "id": 9
+    },
+    {
+      "title": "Tech Talk",
+      "description": "As someone who spends a reasonable amount of time writing, rehearsing, and giving tech talks, I often find folks new to speaking about tech asking me: how do you do it? How do you know that you will be able to write and give an excellent tech talk?\n\nThe simple answer is: I don't know. An excellent tech talk isn't definable and solvable like an engineering problem. It's part tech, part passion, part storytelling, and part luck. But in thinking about speakers and talks that I've looked up to throughout the years, I believe that I've found a few key ingredients in any tech talk that I've seen and would consider \"great.\" In reviewing these, I actually came to appreciate what I somewhat already knew: the \"tech\" part of the talk is probably the least important part of a great tech talk. Yet, as professionals, that is what we get wrapped around. And it is what worries us when writing a speech. The best demo ever - that's what will save my talk! But in the end, it's not just the tech content that counts, so let's look at the five critical ingredients for a great tech talk:\n\nStory and narrative\nPassion\nConnection to the audience\nBalance\nCall to action\nFor each ingredient, I've included a talk that best illustrates that principle and a link to the talk. As an aside, every moderately good talk I've ever written was inspired while listening to or after hearing a great talk from one of these amazing technologists. Remember: good artists copy, great artists steal.",
+      "category": "The Winning Team",
+      "imageUrl": "http://res.cloudinary.com/dtqme1nzx/image/upload/v1694685042/n2fdz6dc457tbdnbbpef.jpg",
+      "date": "14/09/2023",
+      "id": 10
+    }
+  ]
+}
